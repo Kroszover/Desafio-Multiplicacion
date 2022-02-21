@@ -1,3 +1,9 @@
 *{
-    background-color: black;
+    background-color: beige;
+    text-align: left;
+    text-decoration-color: aliceblue;
+ justify-content: center;
+}
+.card{
+    justify-content: center;
 }
